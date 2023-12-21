@@ -5,7 +5,7 @@
 <b:attr name='xmlns:b' value=''/>
 <b:attr name='xmlns:expr' value=''/>
 <b:attr name='xmlns:data' value=''/>
-<head>
+
   
   <title>360hub4u.in</title>
 <!--[ Meta for browser ]-->
@@ -85,8 +85,7 @@ svg.line, svg .line{fill:none!important;stroke:#fff;stroke-linecap:round;stroke-
   
 <title><data:blog.pageTitle/></title>
 <b:skin><![CDATA[]]></b:skin>
-</head>
-<body>
+
 <div class='mainWrapper'>
   
   <!--[ About Author ]-->
@@ -96,11 +95,6 @@ svg.line, svg .line{fill:none!important;stroke:#fff;stroke-linecap:round;stroke-
     <img alt='Vegacloud' src='https://i.ibb.co/86wSP1V/images-5.jpg'/>
     <!--[ Author Description ]-->
   
-  
-    <div class='athrBtn'>
-     
-      
-      <br/>
       
 <video width="320" height="240" controls>
   <source src="https://360hub4u.imgamerxyt.workers.dev/0:/Tutorials%20/Vega-cloud%20Tutorial.mp4" type="video/mp4">
@@ -109,10 +103,7 @@ Your browser does not support the video tag.
 </video>
   
    
-    </div>
+ 
   </div>
 </div>
   
-<b:section id='1'/>
-</body>
-</html>
