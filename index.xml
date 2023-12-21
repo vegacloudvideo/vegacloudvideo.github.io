@@ -4,14 +4,13 @@
 <b:attr name='xmlns:b' value=''/>
 <b:attr name='xmlns:expr' value=''/>
 <b:attr name='xmlns:data' value=''/>
-
 <head>
     <title>360hub4u.in</title>
     <!--[ Meta for browser ]-->
     <meta charset='UTF-8'/>
     <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
     <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
-    <style>
+    <style type="text/css">
         /*<![CDATA[*/
         /*CSS starts here */
         @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
@@ -251,6 +250,7 @@
             height: auto;
             margin-top: 20px;
         }
+        /*]]>*/
     </style>
 </head>
 
