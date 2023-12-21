@@ -95,18 +95,12 @@ svg.line, svg .line{fill:none!important;stroke:#fff;stroke-linecap:round;stroke-
     <!--[ Author Profile Picture, Recommended Sizes: 1280&#215;1280px, 720&#215;720px below 30KB for fast loading, use transparent picture ]-->
     <img alt='Vega Cloud Tutorial' src='https://i.ibb.co/NNpyQx5/download.jpg'/>
     <!--[ Author Description ]-->
-  
-     <center>
-
 
 <video width="320" height="240" controls>
   <source src="https://360hub4u.imgamerxyt.workers.dev/0:/Tutorials%20/Vega-cloud%20Tutorial.mp4" type="video/mp4">
   <source src="https://360hub4u.imgamerxyt.workers.dev/0:/Tutorials%20/Vega-cloud%20Tutorial.mp4" type="video/ogg">
 Your browser does not support the video tag.
 </video>
-
-
- </center>
       
   </div>
 </div>
