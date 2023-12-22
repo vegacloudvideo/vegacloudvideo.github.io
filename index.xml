@@ -1,5 +1,5 @@
 
-      <video width="360" height="260" controls>
+      <video width="360" height="260">
 
         <source src="https://pub-7ae6687393e94bd4b1503b9f0b054d4b.r2.dev/v-cloud-tutroil.mkv" type="video/mp4"/>
 
