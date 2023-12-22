@@ -7,11 +7,14 @@
 </head>
 <body>
 
-<!-- Video player here -->
-<video width="640" height="360" controls>
-    <source src="https://hubcloud-download.pexigic4913492.workers.dev/8d0d322f558c69b71550ac6703d749cd256ca84fefd99bb25f6f5e3d77c4a56517244780144a09f81538c592801985d3::a7235dd539efc7a01935b139208be43e/1395954249/V%20-%20Cloud%20Tutorial%20Video.mkv" type="video/x-matroska">
-    Your browser does not support the video tag.
-</video>
+<video width="320" height="240" controls>
 
+  <source src="https://hubcloud.in/re/dl.php?id=ZDB4bUJwUkJZRXQzK1A3bnlPMUFpUGMrWXR6MGZpL2RCaHVuRkRkSWpnNFN5MTBtckEwUzZTWE9zS1JJVXVKM21tUTJGRVI3Sks3WjgyK1gyaFJjdEZBeWlrZU9hL1FqaWhFd3F1VG1jR3M9" type="video/mp4">
+
+  <source src="https://hubcloud.in/re/dl.php?id=ZDB4bUJwUkJZRXQzK1A3bnlPMUFpUGMrWXR6MGZpL2RCaHVuRkRkSWpnNFN5MTBtckEwUzZTWE9zS1JJVXVKM21tUTJGRVI3Sks3WjgyK1gyaFJjdEZBeWlrZU9hL1FqaWhFd3F1VG1jR3M9" type="video/ogg">
+
+Your browser does not support the video tag.
+
+</video>
 </body>
 </html>
