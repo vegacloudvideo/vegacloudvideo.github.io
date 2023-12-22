@@ -1,20 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Player Example</title>
-</head>
-<body>
 
-<video width="320" height="240" controls>
+      <video width="360" height="260" controls>
 
-  <source src="https://hubcloud.in/re/dl.php?id=ZDB4bUJwUkJZRXQzK1A3bnlPMUFpUGMrWXR6MGZpL2RCaHVuRkRkSWpnNFN5MTBtckEwUzZTWE9zS1JJVXVKM21tUTJGRVI3Sks3WjgyK1gyaFJjdEZBeWlrZU9hL1FqaWhFd3F1VG1jR3M9" type="video/mp4">
+        <source src="https://pub-7ae6687393e94bd4b1503b9f0b054d4b.r2.dev/v-cloud-tutroil.mkv" type="video/mp4"/>
 
-  <source src="https://hubcloud.in/re/dl.php?id=ZDB4bUJwUkJZRXQzK1A3bnlPMUFpUGMrWXR6MGZpL2RCaHVuRkRkSWpnNFN5MTBtckEwUzZTWE9zS1JJVXVKM21tUTJGRVI3Sks3WjgyK1gyaFJjdEZBeWlrZU9hL1FqaWhFd3F1VG1jR3M9" type="video/ogg">
+        <source src="https://pub-7ae6687393e94bd4b1503b9f0b054d4b.r2.dev/v-cloud-tutroil.mkv" type="video/ogg"/>
 
-Your browser does not support the video tag.
+      Your browser does not support the video tag.
 
-</video>
-</body>
-</html>
+      </video>
